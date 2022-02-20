@@ -1,0 +1,9 @@
+.\alta.exe:000B7FE8:00 00 00
+.\ambitd.exe:000B77E8:00 00 00
+.\cdslmd.exe:00356630:4C 89 4C
+.\chrond.exe:000B7BE8:00 00 00
+.\CKOUT.exe:00131690:4C 89 4C
+.\g2c_d.exe:000B77F8:00 00 00
+.\k2techld.exe:000B7BE8:00 00 00
+.\LicenseServerConfiguration.exe:00115160:55 8B EC
+.\perf_test.exe:00138EB0:4C 89 4C
