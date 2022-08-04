@@ -54,3 +54,16 @@ clone图片
 
 ![image-20220804121801068](C:\Users\nesv\AppData\Roaming\Typora\typora-user-images\image-20220804121801068.png)
 
+
+
+
+
+
+
+
+
+# git pull问题
+
+因为我在本地删除了文件，而远程上并没有进行修改；所以git pull并不会更新本地，只能强制合并来达到强制更新本地；当我在远程仓库新建一个文件的时候，git pull 就会更新本地了。
+
+简而言之，git pull发现有新的版本号才会执行更新，比如你版本号是1，git上没有新的版本号，无论你在本地干了什么，除了push改变版本号，你Git pull等于没用。
